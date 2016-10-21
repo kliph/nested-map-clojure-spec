@@ -4,15 +4,18 @@
 ## What to expect when you are specing
 
 <br />
+## Presented by Cliff Rodgers
+## @bendyworks / @2kliph
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-## Peter Schuck
-<br />
+## Content by Peter Schuck
 ## @bendyworks / @spinningtopsofdoom
+
+!SLIDE
+# Who are we?
+##### bendyworks.com/blog
+![](./peter-and-cliff-blog.png)
+##### Hash Maps: more room at the bottom - Peter Schuck Clojure / West 2016
+[https://youtu.be/GibNOQVelFY](https://youtu.be/GibNOQVelFY)
 
 !SLIDE
 
