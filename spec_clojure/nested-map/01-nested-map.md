@@ -223,7 +223,7 @@
 	@@@ clojure
     :persons ; => :madison.spec.core/persons
     :pet     ; => :madison.spec.core/pets
-    :dog     ; => :dog method spec from pets mutlispec
+    :dog     ; => :dog method spec from pets multispec
     :id      ; => :pets/id
     :uuid    ; => uuid?
 
