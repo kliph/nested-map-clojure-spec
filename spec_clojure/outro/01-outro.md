@@ -14,5 +14,8 @@
 !SLIDE
 
 #Thanks!
-## You can find me at Bendyworks 99.9% of work hours
-## On #clojure and #clojurescript and clojurians under spinningtopsofdoom
+## You can find Peter and Cliff working at Bendyworks 99.9% of work hours
+<br />
+## Peter's on Freenode #clojure and #clojurescript and clojurians slack under spinningtopsofdoom
+<br />
+## Cliff's on Freenode #clojure and #clojurescript and clojurians slack under kliph
